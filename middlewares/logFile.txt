@@ -1,0 +1,7 @@
+New user Authenticated!
+Username: Viswa Priya
+Password: viswa2003
+URL: /api/checkLoggerData/Viswa%20Priya/viswa2003
+Date: 11/7/2024, 9:56:49 am
+Method Type: POST
+
